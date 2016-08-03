@@ -92,7 +92,18 @@ Table Of Content
 .logo_company{
 	width:200px;
 }
-
+.contact-us-link{
+	font-size: 40px;
+	cursor: pointer;
+}
+.fullscreenbanner{
+	background-color: #000;
+}
+.video_demo{
+	padding-top: 100px;
+	position: relative;
+	right: 235px;
+}
 
 
 
